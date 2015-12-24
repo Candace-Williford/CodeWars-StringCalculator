@@ -1,0 +1,5 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\CodeWars-StringCalculator\bin\Debug\CodeWars-StringCalculator.exe.config
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\CodeWars-StringCalculator\bin\Debug\CodeWars-StringCalculator.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\CodeWars-StringCalculator\bin\Debug\CodeWars-StringCalculator.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\CodeWars-StringCalculator\obj\Debug\CodeWars-StringCalculator.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\CodeWars-StringCalculator\obj\Debug\CodeWars-StringCalculator.pdb

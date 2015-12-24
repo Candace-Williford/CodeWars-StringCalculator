@@ -1,0 +1,7 @@
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\bin\Debug\CodeWars-StringCalculator.exe
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\bin\Debug\CodeWars-StringCalculator.pdb
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\users\candace\documents\visual studio 2013\Projects\CodeWars-StringCalculator\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
